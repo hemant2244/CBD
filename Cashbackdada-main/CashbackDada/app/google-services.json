@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915118956477",
+    "project_id": "cashbackdada-70edc",
+    "storage_bucket": "cashbackdada-70edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915118956477:android:b8d23436920d489e73fcd4",
+        "android_client_info": {
+          "package_name": "com.cashbackdada.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915118956477-7shcng1u898u8f7jkgf1n6tr01liipp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqY6_zN3Cx2F3oMvH2Fba0uWa3pIEmT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915118956477-7shcng1u898u8f7jkgf1n6tr01liipp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
